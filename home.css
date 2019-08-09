@@ -1,0 +1,56 @@
+.o{
+    background-color: lavender;
+}
+section
+{
+    width: 90%;
+    height:50vh;
+    background: lavender;
+}
+
+section.uhuhu
+{
+    background: url(muscular.jpg) no-repeat center fixed;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+section.pic
+{
+    background: url(sharknado.jpg) no-repeat center;
+    background-size: cover;
+   background-attachment: fixed;
+}
+
+section.help
+{
+    background: url(neck.jpg) no-repeat center fixed;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+section.rad
+{
+    background: url(rad.jpg) no-repeat center fixed;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body
+{
+background: url(ISEE.PNG) fixed;
+
+}
+#hectic
+{
+    background: url(help.jpg) no-repeat center fixed;
+    background-size:cover;
+    
+}
+
+section.quieres
+{
+background: url(Quierr.jpg) no-repeat center fixed;
+background-size: cover;
+
+}
